@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-Let's build something great!
+Let's build something great together.
 
+- 🌱 I’m currently learning **Data Structures and Algorithms** and **LLM's**.
 <!--
 **pattersongrant/pattersongrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
