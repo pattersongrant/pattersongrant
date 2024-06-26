@@ -3,6 +3,9 @@
 Let's build something great together.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**.
+
+- 📫 How to reach me: pattersongrant06@gmail.com
+
 <!--
 **pattersongrant/pattersongrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
