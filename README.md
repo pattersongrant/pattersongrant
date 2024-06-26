@@ -3,7 +3,7 @@
 Let's build something great together.
 
 - 🔭 I’m currently working on Leetcode, mobile app development, and AI.
-- 🌱 I’m currently learning **Data Structures and Algorithms**, **LLM's**, and **Web Scraping.**.
+- 🌱 I’m currently learning **Data Structures and Algorithms**, **LLM's**, and **Web Scraping**.
 <!--
 **pattersongrant/pattersongrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
