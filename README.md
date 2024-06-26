@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Let's build together
+Let's build something great!
 
 <!--
 **pattersongrant/pattersongrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
