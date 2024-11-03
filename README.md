@@ -1,6 +1,6 @@
 ## Hey, I'm Grant 👋😁
 
-Welcome to my profile!
+**Welcome to my profile!**
 
 - 🚀 I am a **Software Engineer**
 - 🔭 I’m currently working on **M-Cals (iOS app)**
