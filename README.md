@@ -3,8 +3,8 @@
 Let's build something great together.
 
 - 🔭 I’m currently working on **M-Cals (iOS app)**.
-
-- 📫 How to reach me: pattersongrant06@gmail.com
+- 🌱 I’m currently studying at the **University of Michigan College of Engineering.**
+- 📫 How to reach me: **pattersongrant06@gmail.com**
 
 <!--
 **pattersongrant/pattersongrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
