@@ -1,4 +1,4 @@
-## Hi there! I'm Grant! 😁
+## Hey, I'm Grant 👋😁
 
 Welcome to my profile!
 
