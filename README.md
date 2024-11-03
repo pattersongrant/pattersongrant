@@ -2,7 +2,7 @@
 
 Let's build something great together.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**.
+- 🔭 I’m currently working on **M-Cals (iOS app)**.
 
 - 📫 How to reach me: pattersongrant06@gmail.com
 
