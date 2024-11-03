@@ -7,6 +7,8 @@ Welcome to my profile!
 - 🌱 I’m currently studying Computer Science at the University of Michigan College of Engineering.
 - 📫 How to reach me: **pattersongrant06@gmail.com**
 
+Feel free to look around!
+
 
 <!--
 **pattersongrant/pattersongrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
