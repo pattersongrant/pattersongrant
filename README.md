@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hey, I'm Grant! 👋
 
-Let's build something great together.
+Welcome to my profile!
 
 - 🔭 I’m currently working on **M-Cals (iOS app)**.
-- 🌱 I’m currently studying at the **University of Michigan College of Engineering.**
+- 🌱 I’m currently studying at the **University of Michigan College of Engineering**
 - 📫 How to reach me: **pattersongrant06@gmail.com**
 
 <!--
