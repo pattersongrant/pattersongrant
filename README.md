@@ -1,7 +1,7 @@
 ## Hey, I'm Grant! 👋
 
 Welcome to my profile!
-
+- 🚀 I am a Software Engineer.
 - 🔭 I’m currently working on **M-Cals (iOS app)**.
 - 🌱 I’m currently studying at the **University of Michigan College of Engineering**
 - 📫 How to reach me: **pattersongrant06@gmail.com**
