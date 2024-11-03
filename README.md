@@ -7,7 +7,7 @@ Welcome to my profile!
 - 🌱 I’m currently studying Computer Science at the University of Michigan College of Engineering.
 - 📫 How to reach me: **pattersongrant06@gmail.com**
 
-Feel free to look around👇
+Feel free to look around! ⬇️
 
 
 <!--
