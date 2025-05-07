@@ -3,7 +3,7 @@
 **Welcome to my profile!**
 
 - 🚀 I am a **Software Engineer**
-- 🔭 I’m currently working on **A new iOS app**
+- 🔭 I’m currently working on **a new iOS app**
 - 🌱 I’m currently studying Computer Science at the University of Michigan College of Engineering.
 - 📫 How to reach me: **pattersongrant06@gmail.com**
 
