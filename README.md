@@ -3,7 +3,6 @@
 **Welcome to my profile!**
 
 - 🚀 I am a **Software Engineer.**
-- 🔭 I’m currently brainstorming **my next project.**
 - 🌱 I’m currently studying Computer Science at the University of Michigan College of Engineering.
 - 📫 How to reach me: **grantpa@umich.edu**
 
