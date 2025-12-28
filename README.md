@@ -4,6 +4,7 @@
 
 - 🚀 I am a **Software Engineer.**
 - 🌱 I’m currently studying Computer Science at the University of Michigan College of Engineering.
+- 🔭 I’m currently working on a react web app
 - 📫 How to reach me: **grantpa@umich.edu**
 
 Feel free to look around! ⬇️
